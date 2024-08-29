@@ -2317,7 +2317,7 @@
             <a href="https://github.com/yabouzeid">
                 <img src="https://avatars.githubusercontent.com/u/177817550?v=4" width="50">
                 <br>
-                <h2>Youssef Abouzeid/h2>
+                <h2>Youssef Abouzeid</h2>
             </a>
             <br>            
             <table>
